@@ -1,1 +1,10 @@
 This is demo project to learn the ins and outs of Git.
+vibgyor
+
+Violet
+Indigo
+Blue
+Green
+Yello
+Orange
+Red
